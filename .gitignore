@@ -15,4 +15,4 @@
 *.tmp
 *.swp
 *.bak
-*.gitignore
+.gitignore
