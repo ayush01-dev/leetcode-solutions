@@ -30,3 +30,20 @@
 
 <p>&nbsp;</p>
 <p><strong>Follow up:</strong>&nbsp;Could you come up with a one-pass algorithm using only&nbsp;constant extra space?</p>
+
+#things learn 
+	> in while(coutn0--) will return false if count0-- becomes 0
+
+```markdown
+### Three-Pointer Approach (Dutch National Flag Algorithm)
+
+- Initialize three pointers:
+	- `low` = 0 (start of the array)
+	- `mid` = 0 (start of the array)
+	- `high` = n - 1 (end of the array)
+- Iterate while `mid <= high`:
+	- If `nums[mid] == 0`: swap `nums[low]` and `nums[mid]`, increment both `low` and `mid`
+	- If `nums[mid] == 1`: increment `mid`
+	- If `nums[mid] == 2`: swap `nums[mid]` and `nums[high]`, decrement `high`
+- This sorts the array in a single pass with constant extra space.
+```
