@@ -25,19 +25,3 @@ Feel free to fork the repository and add your own solutions!
 ---
 
 Happy Coding!
-
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0075-sort-colors) |
-## Two Pointers
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0075-sort-colors) |
-## Sorting
-|  |
-| ------- |
-| [0075-sort-colors](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0075-sort-colors) |
-<!---LeetCode Topics End-->
