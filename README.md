@@ -55,4 +55,8 @@ Happy Coding!
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0344-reverse-string) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
