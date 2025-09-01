@@ -35,6 +35,7 @@ Happy Coding!
 | [0073-set-matrix-zeroes](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -53,6 +54,7 @@ Happy Coding!
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -63,4 +65,5 @@ Happy Coding!
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0007-reverse-integer) |
+| [0189-rotate-array](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
