@@ -32,6 +32,7 @@ Happy Coding!
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0001-two-sum) |
+| [0031-next-permutation](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0066-plus-one](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -60,6 +61,7 @@ Happy Coding!
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0151-reverse-words-in-a-string](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
