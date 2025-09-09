@@ -33,6 +33,7 @@ Happy Coding!
 | ------- |
 | [0001-two-sum](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -84,6 +85,7 @@ Happy Coding!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0287-find-the-duplicate-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
