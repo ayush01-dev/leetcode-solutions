@@ -38,6 +38,7 @@ Happy Coding!
 | [0073-set-matrix-zeroes](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0118-pascals-triangle](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -92,6 +93,7 @@ Happy Coding!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
 |  |
