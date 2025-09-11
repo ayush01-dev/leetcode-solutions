@@ -4,8 +4,9 @@ public:
         if(x<0) return false;
         long rev = 0;
         int temp = x;
+        int reminder;
         while(x != 0){
-            int reminder = x % 10;
+            reminder = x % 10;
             rev = rev*10 + reminder;
             x = x/10;
 
