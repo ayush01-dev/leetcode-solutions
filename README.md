@@ -80,6 +80,7 @@ Happy Coding!
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Math
@@ -88,6 +89,7 @@ Happy Coding!
 | [0007-reverse-integer](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0189-rotate-array) |
 ## Binary Search
 |  |
@@ -100,6 +102,7 @@ Happy Coding!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0136-single-number) |
 | [0287-find-the-duplicate-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
@@ -143,4 +146,8 @@ Happy Coding!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
