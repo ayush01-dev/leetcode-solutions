@@ -71,6 +71,7 @@ Happy Coding!
 | ------- |
 | [0027-remove-element](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0031-next-permutation) |
+| [0125-valid-palindrome](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
@@ -81,6 +82,7 @@ Happy Coding!
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0067-add-binary) |
+| [0125-valid-palindrome](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0344-reverse-string) |
 ## Math
