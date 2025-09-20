@@ -1,27 +1,35 @@
 class Solution {
 public:
     bool isPalindrome(string s) {
-        int left = 0, right = s.size() - 1;
-
-        while (left < right) {
-            // Move left pointer until we find an alphanumeric character
-            while (left < right && !isalnum(s[left])) {
-                left++;
-            }
-            // Move right pointer until we find an alphanumeric character
-            while (left < right && !isalnum(s[right])) {
-                right--;
-            }
-
-            // Compare lowercase versions
-            if (tolower(s[left]) != tolower(s[right])) {
-                return false;
-            }
-
-            left++;
-            right--;
+        //first convert all sentence in lowercase
+        for (char &c : s) {
+        c = tolower(c);
         }
 
+
+
+        //now remove all the non aphanumerical char
+        for(int i = 0; i < s.size(); i++){
+            if (!isalnum(s[i])) {   
+            s.erase(i, 1);
+            i--; // fix skipped character issue
+            }
+
+        }
+
+
+        //now check is panlindrom or not 
+        int st = 0; 
+        int e = s.size()-1;
+        while(st<= e){
+            if(s[st] == s[e]){
+                st++;
+                e--;
+            }
+            else{
+                return false;
+            }
+        }
         return true;
     }
 };
