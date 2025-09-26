@@ -43,6 +43,7 @@ Happy Coding!
 | [0055-jump-game](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -69,6 +70,7 @@ Happy Coding!
 | ------- |
 | [0048-rotate-image](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -94,6 +96,7 @@ Happy Coding!
 | ------- |
 | [0049-group-anagrams](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0344-reverse-string) |
@@ -176,4 +179,12 @@ Happy Coding!
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0055-jump-game) |
+## Backtracking
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0079-word-search) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
