@@ -55,6 +55,7 @@ Happy Coding!
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0941-sort-array-by-parity](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 ## Hash Table
 |  |
@@ -171,6 +172,7 @@ Happy Coding!
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0724-find-pivot-index) |
 ## Simulation
 |  |
 | ------- |
