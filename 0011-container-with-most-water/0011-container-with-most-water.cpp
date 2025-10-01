@@ -20,7 +20,7 @@ public:
         int area,breadth,length;
         int start = 0;
         int end = height.size()-1;
-        while(start <= end){
+        while(start < end){
             breadth = min(height[start],height[end]);
             length = end - start;
             area = length * breadth;
