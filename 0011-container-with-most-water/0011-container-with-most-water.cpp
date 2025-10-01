@@ -16,7 +16,7 @@ public:
         // return maxAr;
 
     //using two pointers approach
-        int maxAr = INT_MIN;
+        int maxAr = 0;
         int area,breadth,length;
         int start = 0;
         int end = height.size()-1;
