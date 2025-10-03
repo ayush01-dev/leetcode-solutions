@@ -44,6 +44,7 @@ Happy Coding!
 | [0055-jump-game](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -72,6 +73,7 @@ Happy Coding!
 | ------- |
 | [0048-rotate-image](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0079-word-search) |
 ## Dynamic Programming
 |  |
@@ -119,6 +121,7 @@ Happy Coding!
 | [0004-median-of-two-sorted-arrays](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0268-missing-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
