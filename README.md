@@ -81,6 +81,7 @@ Happy Coding!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0118-pascals-triangle) |
@@ -104,6 +105,7 @@ Happy Coding!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0079-word-search) |
@@ -197,6 +199,7 @@ Happy Coding!
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0079-word-search) |
 ## Depth-First Search
 |  |
