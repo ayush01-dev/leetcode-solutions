@@ -208,6 +208,7 @@ Happy Coding!
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0079-word-search) |
+| [0101-symmetric-tree](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0101-symmetric-tree) |
 ## Counting
 |  |
 | ------- |
@@ -217,4 +218,16 @@ Happy Coding!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0101-symmetric-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
