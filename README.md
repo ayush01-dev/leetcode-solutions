@@ -93,6 +93,7 @@ Happy Coding!
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0027-remove-element) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0125-valid-palindrome) |
@@ -108,6 +109,7 @@ Happy Coding!
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0079-word-search) |
@@ -230,4 +232,8 @@ Happy Coding!
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0101-symmetric-tree) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
