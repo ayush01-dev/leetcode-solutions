@@ -103,6 +103,7 @@ Happy Coding!
 | [0287-find-the-duplicate-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0908-middle-of-the-linked-list](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 ## String
 |  |
@@ -240,6 +241,7 @@ Happy Coding!
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
