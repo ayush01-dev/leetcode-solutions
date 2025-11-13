@@ -6,6 +6,9 @@
  *     ListNode(int x) : val(x), next(NULL) {}
  * };
  */
+
+
+ //solving this problem with fcd (floid cycle detection ) slow and fast approach
 class Solution {
 public:
     bool hasCycle(ListNode *head) {
