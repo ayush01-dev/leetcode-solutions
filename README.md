@@ -125,6 +125,7 @@ Happy Coding!
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0048-rotate-image) |
@@ -246,6 +247,7 @@ Happy Coding!
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0141-linked-list-cycle) |
@@ -256,6 +258,7 @@ Happy Coding!
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
