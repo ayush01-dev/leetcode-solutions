@@ -59,6 +59,7 @@ Happy Coding!
 | [0287-find-the-duplicate-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0941-sort-array-by-parity](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
@@ -74,6 +75,7 @@ Happy Coding!
 | [0229-majority-element-ii](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
@@ -108,6 +110,7 @@ Happy Coding!
 | [0287-find-the-duplicate-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 ## String
@@ -144,6 +147,7 @@ Happy Coding!
 | [0287-find-the-duplicate-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0349-intersection-of-two-arrays](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -169,6 +173,7 @@ Happy Coding!
 | [0229-majority-element-ii](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0941-sort-array-by-parity](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 ## Heap (Priority Queue)
 |  |
