@@ -4,12 +4,12 @@ public:
         int ans = 0;
         for(int i = 0 ; i < nums.size(); i++){
             int quotient = nums[i]/10;
-            int reminder = nums[i]%10;
+            // int reminder = nums[i]%10;
             int noOfdigits = 1;
             while(quotient != 0){
 
                 noOfdigits++;
-                reminder = quotient%10;
+                // reminder = quotient%10;
                 quotient =  quotient/10;
                 
                 
