@@ -64,6 +64,7 @@ Happy Coding!
 | [0560-subarray-sum-equals-k](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0941-sort-array-by-parity](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ayush01-dev/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +138,7 @@ Happy Coding!
 | [0067-add-binary](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0268-missing-number) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/ayush01-dev/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
