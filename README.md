@@ -34,6 +34,7 @@ Happy Coding!
 | [0001-two-sum](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0031-next-permutation) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -98,6 +99,7 @@ Happy Coding!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0031-next-permutation) |
@@ -169,6 +171,7 @@ Happy Coding!
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0169-majority-element) |
