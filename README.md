@@ -66,6 +66,7 @@ Happy Coding!
 | [0724-find-pivot-index](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0941-sort-array-by-parity](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayush01-dev/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ayush01-dev/leetcode-solutions/tree/master/1470-shuffle-the-array) |
 | [1480-running-sum-of-1d-array](https://github.com/ayush01-dev/leetcode-solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/ayush01-dev/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
@@ -84,6 +85,7 @@ Happy Coding!
 | [0349-intersection-of-two-arrays](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Matrix
 |  |
 | ------- |
@@ -186,6 +188,7 @@ Happy Coding!
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -281,4 +284,8 @@ Happy Coding!
 | [0025-reverse-nodes-in-k-group](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
