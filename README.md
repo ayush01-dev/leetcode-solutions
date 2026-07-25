@@ -65,6 +65,7 @@ Happy Coding!
 | [0560-subarray-sum-equals-k](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0724-find-pivot-index) |
 | [0941-sort-array-by-parity](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayush01-dev/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ayush01-dev/leetcode-solutions/tree/master/1470-shuffle-the-array) |
@@ -123,6 +124,7 @@ Happy Coding!
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -188,6 +190,7 @@ Happy Coding!
 | [0350-intersection-of-two-arrays-ii](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0414-third-maximum-number) |
 | [0941-sort-array-by-parity](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Heap (Priority Queue)
 |  |
