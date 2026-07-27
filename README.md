@@ -149,6 +149,7 @@ Happy Coding!
 | [0066-plus-one](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0067-add-binary) |
 | [0189-rotate-array](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayush01-dev/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
@@ -168,6 +169,7 @@ Happy Coding!
 | ------- |
 | [0067-add-binary](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0287-find-the-duplicate-number) |
 ## Divide and Conquer
@@ -289,6 +291,7 @@ Happy Coding!
 | [0002-add-two-numbers](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 ## Counting Sort
 |  |
