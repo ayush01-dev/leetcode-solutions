@@ -42,6 +42,7 @@ Happy Coding!
 | [0048-rotate-image](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
@@ -96,6 +97,7 @@ Happy Coding!
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0079-word-search) |
@@ -236,6 +238,7 @@ Happy Coding!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0067-add-binary) |
 | [0867-transpose-matrix](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/ayush01-dev/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
