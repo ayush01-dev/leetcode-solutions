@@ -148,6 +148,7 @@ Happy Coding!
 | [0125-valid-palindrome](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0344-reverse-string) |
+| [0394-decode-string](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0394-decode-string) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ayush01-dev/leetcode-solutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 ## Math
 |  |
@@ -270,6 +271,7 @@ Happy Coding!
 | ------- |
 | [0020-valid-parentheses](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0394-decode-string) |
 ## Tree
 |  |
 | ------- |
@@ -305,6 +307,7 @@ Happy Coding!
 | [0206-reverse-linked-list](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0394-decode-string) |
 ## Counting Sort
 |  |
 | ------- |
