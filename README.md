@@ -149,6 +149,7 @@ Happy Coding!
 | [0151-reverse-words-in-a-string](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0344-reverse-string) |
 | [0394-decode-string](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0394-decode-string) |
+| [0520-detect-capital](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0520-detect-capital) |
 | [1869-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ayush01-dev/leetcode-solutions/tree/master/1869-longer-contiguous-segments-of-ones-than-zeros) |
 ## Math
 |  |
