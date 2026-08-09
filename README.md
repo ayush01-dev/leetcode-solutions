@@ -112,6 +112,7 @@ Happy Coding!
 | [0055-jump-game](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0055-jump-game) |
 | [0118-pascals-triangle](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -164,6 +165,7 @@ Happy Coding!
 | [0189-rotate-array](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ayush01-dev/leetcode-solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
@@ -310,8 +312,13 @@ Happy Coding!
 | [0231-power-of-two](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0394-decode-string) |
+| [0509-fibonacci-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Counting Sort
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
