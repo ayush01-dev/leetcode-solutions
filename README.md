@@ -77,6 +77,7 @@ Happy Coding!
 | [1572-matrix-diagonal-sum](https://github.com/ayush01-dev/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1920-build-array-from-permutation](https://github.com/ayush01-dev/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/ayush01-dev/leetcode-solutions/tree/master/1929-concatenation-of-array) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ayush01-dev/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Hash Table
 |  |
 | ------- |
@@ -325,4 +326,8 @@ Happy Coding!
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/ayush01-dev/leetcode-solutions/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ayush01-dev/leetcode-solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
